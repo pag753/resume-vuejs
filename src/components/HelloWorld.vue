@@ -46,6 +46,28 @@
 							<div class="resume-section-content">
 								<div class="resume-timeline position-relative">
 
+                  <!-- ALPHACREDIT -->
+                  <article class="resume-timeline-item position-relative pb-5">
+                    <div class="resume-timeline-item-header mb-2">
+                      <div class="d-flex flex-column flex-md-row">
+                        <h3 class="resume-position-title font-weight-bold mb-1">{{ arr[43] }}</h3>
+                        <div class="resume-company-name ml-auto">{{ arr[49] }}</div>
+                      </div><!--//row-->
+                      <div class="resume-position-time">{{ arr[50] }}</div>
+                    </div><!--//resume-timeline-item-header-->
+                    <div class="resume-timeline-item-desc">
+                      <p>{{ arr[51] }}</p>
+                      <h4 class="resume-timeline-item-desc-heading font-weight-bold">{{ arr[17] }}</h4>
+                      <p>{{ arr[52] }}</p>
+                      <h4 class="resume-timeline-item-desc-heading font-weight-bold">{{ arr[13] }}</h4>
+                      <ul class="list-inline">
+                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">Java</span></li>
+                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">Spring boot</span></li>
+                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">.Net Core</span></li>
+                      </ul>
+                    </div><!--//resume-timeline-item-desc-->
+                  </article><!--//resume-timeline-item-->
+
 									<!-- GRUPO SALINAS -->
 									<article class="resume-timeline-item position-relative pb-5">
 										<div class="resume-timeline-item-header mb-2">

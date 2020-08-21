@@ -3,7 +3,7 @@ export default {
     'Curriculum Vitae Pablo de Jesús',
     'Desarrollador Full Stack',
     'Resúmen',
-    'Ingeniero de software con dos años de experiencia en la parte de backend y frontend utilizando la tecnología PHP y sus frameworks Codeigniter y Yii2. Participando en proyectos de gestión de información en bases de datos. Estoy dispuesto a aprender más y usar otras tecnologías sobre todo en JavaScript, Python y Ruby.',
+    'Ingeniero de software con más dos años de experiencia en la parte de backend y frontend utilizando la tecnología PHP y sus frameworks Codeigniter y Yii2. Participando en proyectos de gestión de información en bases de datos. Estoy dispuesto a aprender más y usar otras tecnologías sobre todo en JavaScript, Python y Ruby.',
     'Experiencia Laboral',
     'Desarrollador Full Stack',
     'Septiembre de 2018 - Diciembre de 2018',
@@ -45,9 +45,14 @@ export default {
     'Etapa regional en el IT de Gustavo A. Madero en la Ciudad de México, del 20 al 23 de septiembre de 2016 por los proyectos “Enerluz” y “Autosilla”. Ganador con “Enerluz”.',
     'Desarrollador Full Stack',
     'Grupo Salinas',
-    'Marzo 2019 - actualmente',
-    'Desarrollador full stack en Java en la empresa.',
+    'Marzo 2019 - Junio de 2020',
+    'Desarrollador full stack en Java, Vue.js y Python en la empresa.',
     'Responsable de desarrollar servicios REST y portales web para la gestión de la empresa.',
-    'el 22 de Abril de 2016. Ganador del tercer lugar en la categoría intermedia.'
+    'el 22 de Abril de 2016. Ganador del tercer lugar en la categoría intermedia.',
+    //ALPHACREDIT
+    'Alphacredit',
+    'Julio 2020 - Presente',
+    'Desarrollador full stack en Java y .Net Core en la empresa',
+    'Responsable de desarrollar en Java y .Net Core procesos de la empresa.'
   ]
 }
