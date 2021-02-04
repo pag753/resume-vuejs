@@ -52,7 +52,7 @@ export default {
     //Alphacredit
     'Alphacredit',
     'Julio 2020 - At present',
-    'Java and .Net Core developer in the company.',
-    'Responsible for developing Java and .Net Core processes in the company.',
+    'Nodejs, Java and .Net Core developer in the company.',
+    'Responsible for developing Node.js, Java and .Net Core processes in the company.',
   ]
 }

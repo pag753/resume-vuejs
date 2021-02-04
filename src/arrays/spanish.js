@@ -52,7 +52,7 @@ export default {
     //ALPHACREDIT
     'Alphacredit',
     'Julio 2020 - Presente',
-    'Desarrollador full stack en Java y .Net Core en la empresa',
-    'Responsable de desarrollar en Java y .Net Core procesos de la empresa.'
+    'Desarrollador full stack en Node.js, Java y .Net Core en la empresa',
+    'Responsable de desarrollar en Node.js, Java y .Net Core procesos de la empresa.'
   ]
 }
