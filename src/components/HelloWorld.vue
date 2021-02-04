@@ -62,8 +62,9 @@
                       <h4 class="resume-timeline-item-desc-heading font-weight-bold">{{ arr[13] }}</h4>
                       <ul class="list-inline">
                         <li class="list-inline-item"><span class="badge badge-primary badge-pill">Node.js</span></li>
+                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">AWS</span></li>
+                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">Docker</span></li>
                         <li class="list-inline-item"><span class="badge badge-primary badge-pill">Java</span></li>
-                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">Spring boot</span></li>
                         <li class="list-inline-item"><span class="badge badge-primary badge-pill">.Net Core</span></li>
                       </ul>
                     </div><!--//resume-timeline-item-desc-->
