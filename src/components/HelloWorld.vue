@@ -17,7 +17,7 @@
 							<ul class="resume-social list-unstyled">
 								<li class="mb-3"><a href="https://www.linkedin.com/in/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/pag753</a></li>
 								<li class="mb-3"><a href="https://github.com/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/pag753</a></li>
-								<li class="mb-3"><a href="https://codepen.io/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-codepen fa-fw"></i></span>codepen.io/pag753</a></li>
+                <li class="mb-3"><a href="https://t.me/pa_753" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-telegram"></i></span>Telegram</a></li>
 								<li><a href="https://pag753.000webhostapp.com/" target="_blank"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>pag753.000webhostapp.com</a></li>
 							</ul>
 						</div><!--//secondary-info-->
@@ -167,14 +167,14 @@
 								<div class="resume-skill-item">
 									<h4 class="resume-skills-cat font-weight-bold">{{ arr[20] }}</h4>
 									<ul class="list-unstyled mb-4">
-										<li class="mb-2">
+                    <li class="mb-2">
+                      <div class="resume-skill-name">JavaScript</div>
+                      <div class="progress resume-progress">
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </li>
+                    <li class="mb-2">
 											<div class="resume-skill-name">PHP</div>
-											<div class="progress resume-progress">
-												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-											</div>
-										</li>
-										<li class="mb-2">
-											<div class="resume-skill-name">JavaScript</div>
 											<div class="progress resume-progress">
 												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
@@ -188,7 +188,7 @@
 										<li class="mb-2">
 											<div class="resume-skill-name">Java</div>
 											<div class="progress resume-progress">
-												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 										</li>
 										<li class="mb-2">
@@ -197,6 +197,12 @@
 												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 										</li>
+                    <li class="mb-2">
+                      <div class="resume-skill-name">Typescript</div>
+                      <div class="progress resume-progress">
+                        <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </li>
 									</ul>
 								</div>
 
@@ -242,7 +248,7 @@
 										<li class="mb-2">
 											<div class="resume-skill-name">Node.js</div>
 											<div class="progress resume-progress">
-												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 										</li>
 										<li class="mb-2">
@@ -263,9 +269,13 @@
 								<div class="resume-skill-item">
 									<h4 class="resume-skills-cat font-weight-bold">{{ arr[21] }}</h4>
 									<ul class="list-inline">
+                    <li class="list-inline-item"><span class="badge badge-light">AWS</span></li>
+                    <li class="list-inline-item"><span class="badge badge-light">Docker</span></li>
+                    <li class="list-inline-item"><span class="badge badge-light">Intellij</span></li>
 										<li class="list-inline-item"><span class="badge badge-light">Git</span></li>
 										<li class="list-inline-item"><span class="badge badge-light">FontAwesome</span></li>
 										<li class="list-inline-item"><span class="badge badge-light">Linux</span></li>
+                    <li class="list-inline-item"><span class="badge badge-light">Jira</span></li>
 									</ul>
 								</div><!--//resume-skill-item-->
 							</div><!--resume-section-content-->
