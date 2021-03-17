@@ -4,7 +4,7 @@ import VueRouter from 'vue-router'
 import Spanish from "./components/Spanish";
 import English from "./components/English";
 let num = Math.floor(Math.random() * 6) + 1;
-import(`../public/css/pillar-${num}.css`)
+import(`./assets/css/pillar-${num}.css`)
 
 Vue.config.productionTip = false
 Vue.use(VueRouter)
