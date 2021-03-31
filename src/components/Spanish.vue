@@ -4,18 +4,12 @@
 
 <script>
   import HelloWorld from "./HelloWorld";
-  import axios from 'axios'
+  import utilities from '../arrays/utilities'
   export default {
     name: "Spanish",
     components: {HelloWorld},
-    beforeCreate: function () {
-      axios.get('/index.php/welcome/ws/2')
-        .then(function () {
-        })
-        .catch(function () {
-        })
-        .finally(function () {
-        });
+    beforeCreate: async function () {
+      await utilities.mandar(2)
     }
   }
 </script>

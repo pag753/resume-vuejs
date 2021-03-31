@@ -24,20 +24,14 @@
 </template>
 
 <script>
-  import axios from 'axios'
+  import utilities from '@/arrays/utilities'
   export default {
     name: 'app',
     components: {
     },
     methods: {
-      mandar: function (num) {
-        axios.get('/index.php/welcome/ws/' + num)
-                .then(function () {
-                })
-                .catch(function () {
-                })
-                .finally(function () {
-                })
+      mandar: async function (num) {
+        await utilities.mandar(num)
       }
     }
   }
