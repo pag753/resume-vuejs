@@ -9,7 +9,7 @@
 							<h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Pablo de Jesús</h1>
 							<div class="title mb-3">{{ arr[1] }}</div>
 							<ul class="list-unstyled">
-								<li class="mb-2"><a href="mailto:pag753@gmail.com"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>pag753@gmail.com</a></li>
+								<li class="mb-2"><a href="mailto:pablo.gonzalez.alvarado.753@gmail.com"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>pablo.gonzalez.alvarado.753@gmail.com</a></li>
 								<li><a href="tel:+52 1 238 133 60 66"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>+52 1 238 133 60 66</a></li>
 							</ul>
 						</div><!--//primary-info-->
