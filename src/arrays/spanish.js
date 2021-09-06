@@ -51,8 +51,11 @@ export default {
     'el 22 de Abril de 2016. Ganador del tercer lugar en la categoría intermedia.',
     //ALPHACREDIT
     'Alphacredit',
-    'Julio 2020 - Presente',
+    'Julio 2020 - Agosto 2021',
     'Desarrollador full stack en Node.js, Java y .Net Core en la empresa',
-    'Responsable de desarrollar en Node.js, Java y .Net Core procesos de la empresa.'
+    'Responsable de desarrollar en Node.js, Java y .Net Core procesos de la empresa.',
+    'Septiembre 2021 - Actualmente', //53
+    'Desarrollador full stack en la empresa',
+    'Responsable de desarrollo full stack'
   ]
 }

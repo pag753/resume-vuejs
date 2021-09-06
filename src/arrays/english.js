@@ -51,8 +51,11 @@ export default {
     'on April 22, 2016. Winner of the third place in the intermediate category.',
     //Alphacredit
     'Alphacredit',
-    'July 2020 - At present',
+    'July 2020 - August 2021',
     'Nodejs, Java and .Net Core developer in the company.',
     'Responsible for developing Node.js, Java and .Net Core processes in the company.',
+    'September 2020 - At present', //53
+    'Software developer in the company',
+    'Responsible for developing full stack in the company.',
   ]
 }

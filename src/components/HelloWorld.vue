@@ -10,12 +10,12 @@
 							<div class="title mb-3">{{ arr[1] }}</div>
 							<ul class="list-unstyled">
 								<li class="mb-2"><a href="mailto:pablo.gonzalez.alvarado.753@gmail.com"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>pablo.gonzalez.alvarado.753@gmail.com</a></li>
-								<li><a href="tel:+52 1 238 133 60 66"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>+52 1 238 133 60 66</a></li>
+								<li><a href="tel:+52 238 133 60 66"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>+52 238 133 60 66</a></li>
 							</ul>
 						</div><!--//primary-info-->
 						<div class="secondary-info ml-md-auto mt-2">
 							<ul class="resume-social list-unstyled">
-								<li class="mb-3"><a href="https://www.linkedin.com/in/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/pag753</a></li>
+								<li class="mb-3"><a href="https://www.linkedin.com/in/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in"></i></span>linkedin.com/in/pag753</a></li>
 								<li class="mb-3"><a href="https://github.com/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/pag753</a></li>
                 <li class="mb-3"><a href="https://t.me/pa_753" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-telegram"></i></span>Telegram</a></li>
 								<li><a href="https://resumepablo.herokuapp.com/#/" target="_blank"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>https://resumepablo.herokuapp.com/#/</a></li>
@@ -26,7 +26,7 @@
 								<li class="mb-3"><a href="whatsapp://send?abid=+5212381336066&text=Hello%2C%20Pablo!" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-whatsapp"></i></span></a></li>
 								<li class="mb-3"><a href="https://www.facebook.com/messages/t/PAdJGA" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-facebook-messenger"></i></span></a></li>
 								<li class="mb-3"><a href="https://www.instagram.com/pag753" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-instagram"></i></span></a></li>
-								<li class="mb-3"><a href="https://twitter.com/pa_753" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-twitter"></i></span></a></li>
+								<!--<li class="mb-3"><a href="https://twitter.com/pa_753" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-twitter"></i></span></a></li>-->
 							</ul>
 						</div><!--//secondary-info-->
 					</div><!--//media-body-->
@@ -45,6 +45,27 @@
 							<h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">{{ arr[4] }}</h2>
 							<div class="resume-section-content">
 								<div class="resume-timeline position-relative">
+
+                  <!-- ORACLE -->
+                  <article class="resume-timeline-item position-relative pb-5">
+                    <div class="resume-timeline-item-header mb-2">
+                      <div class="d-flex flex-column flex-md-row">
+                        <h3 class="resume-position-title font-weight-bold mb-1">Full stack developer</h3>
+                        <div class="resume-company-name ml-auto">Oracle</div>
+                      </div><!--//row-->
+                      <div class="resume-position-time">{{ arr[53] }}</div>
+                    </div><!--//resume-timeline-item-header-->
+                    <div class="resume-timeline-item-desc">
+                      <p>{{ arr[54] }}</p>
+                      <h4 class="resume-timeline-item-desc-heading font-weight-bold">{{ arr[17] }}</h4>
+                      <p>{{ arr[55] }}</p>
+                      <h4 class="resume-timeline-item-desc-heading font-weight-bold">{{ arr[13] }}</h4>
+                      <ul class="list-inline">
+                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">Node.js</span></li>
+                        <li class="list-inline-item"><span class="badge badge-primary badge-pill">Docker</span></li>
+                      </ul>
+                    </div><!--//resume-timeline-item-desc-->
+                  </article><!--//resume-timeline-item-->
 
                   <!-- ALPHACREDIT -->
                   <article class="resume-timeline-item position-relative pb-5">
