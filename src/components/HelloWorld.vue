@@ -18,7 +18,7 @@
 								<li class="mb-3"><a href="https://www.linkedin.com/in/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in"></i></span>linkedin.com/in/pag753</a></li>
 								<li class="mb-3"><a href="https://github.com/pag753/" target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/pag753</a></li>
                 <li class="mb-3"><a href="https://t.me/pa_753" target="_blank"><span class="fa-container text-center mr-1"><i class="fab fa-telegram"></i></span>Telegram</a></li>
-								<li><a href="https://resumepablo.herokuapp.com/#/" target="_blank"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>https://resumepablo.herokuapp.com/#/</a></li>
+								<li><a href="https://pabloresume.000webhostapp.com/" target="_blank"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>https://pabloresume.000webhostapp.com/</a></li>
 							</ul>
 						</div><!--//secondary-info-->
 						<div class="secondary-info ml-md-auto mt-2">
