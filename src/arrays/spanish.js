@@ -3,7 +3,7 @@ export default {
     'Curriculum Vitae Pablo de Jesús',
     'Desarrollador Full Stack',
     'Resúmen',
-    'Ingeniero de software con más dos años de experiencia en la parte de backend y frontend utilizando la tecnología PHP y sus frameworks Codeigniter y Yii2. Participando en proyectos de gestión de información en bases de datos. Estoy dispuesto a aprender más y usar otras tecnologías sobre todo en JavaScript, Python y Ruby.',
+    'Ingeniero de software y desarrollador full stack con más de 5 años de experiencia trabajando de manera presencial y remota con comunicación en inglés y español con colaboradores mexicanos, estadounidenses, indios y sudamericanos.',
     'Experiencia Laboral',
     'Desarrollador Full Stack',
     'Septiembre de 2018 - Diciembre de 2018',
@@ -56,6 +56,6 @@ export default {
     'Responsable de desarrollar en Node.js, Java y .Net Core procesos de la empresa.',
     'Septiembre 2021 - Actualmente', //53
     'Desarrollador full stack en la empresa',
-    'Responsable de desarrollo full stack'
+    'Responsable de desarrollo full stack en el área de Oracle University.'
   ]
 }

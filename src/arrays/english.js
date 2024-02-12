@@ -3,7 +3,7 @@ export default {
     'Resume Pablo de Jesús',
     'Full Stack Developer',
     'Career Summary',
-    'Software engineer with more of two years of experience in the backend part and frontend using PHP technology and its Codeigniter and Yii2 frameworks. Participating in information management projects in databases. I am willing to learn more and use other technologies especially in JavaScript, Python and Ruby.',
+    'Software engineer and full stack developer with more than 5 years of experience working in person and remotely with communication in English and Spanish with Mexican, American, Indian and South American collaborators.',
     'Work Experience',
     'Full Stack Developer',
     'September 2018 - December 2018',
@@ -56,6 +56,6 @@ export default {
     'Responsible for developing Node.js, Java and .Net Core processes in the company.',
     'September 2020 - At present', //53
     'Software developer in the company',
-    'Responsible for developing full stack in the company.',
+    'Responsible for developing full stack in the company in Oracle University area.',
   ]
 }
